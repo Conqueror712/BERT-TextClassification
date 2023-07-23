@@ -18,7 +18,9 @@ vocab.txt
 > `THUCNews/saved_dict/`
 bert.ckpt
 
-下载地址: 暂未上传
+下载地址: 
+链接：https://pan.baidu.com/s/1TDXtwtHQf8CYwmzI5_lNVA?pwd=x826 
+提取码：x826
 
 ## 自行预训练
 
